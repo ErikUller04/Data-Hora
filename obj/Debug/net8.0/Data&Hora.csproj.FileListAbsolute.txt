@@ -1,0 +1,14 @@
+C:\Users\eriku\Data&Hora\bin\Debug\net8.0\Data&Hora.exe
+C:\Users\eriku\Data&Hora\bin\Debug\net8.0\Data&Hora.deps.json
+C:\Users\eriku\Data&Hora\bin\Debug\net8.0\Data&Hora.runtimeconfig.json
+C:\Users\eriku\Data&Hora\bin\Debug\net8.0\Data&Hora.dll
+C:\Users\eriku\Data&Hora\bin\Debug\net8.0\Data&Hora.pdb
+C:\Users\eriku\Data&Hora\obj\Debug\net8.0\Data&Hora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriku\Data&Hora\obj\Debug\net8.0\Data&Hora.AssemblyInfoInputs.cache
+C:\Users\eriku\Data&Hora\obj\Debug\net8.0\Data&Hora.AssemblyInfo.cs
+C:\Users\eriku\Data&Hora\obj\Debug\net8.0\Data&Hora.csproj.CoreCompileInputs.cache
+C:\Users\eriku\Data&Hora\obj\Debug\net8.0\Data&Hora.dll
+C:\Users\eriku\Data&Hora\obj\Debug\net8.0\refint\Data&Hora.dll
+C:\Users\eriku\Data&Hora\obj\Debug\net8.0\Data&Hora.pdb
+C:\Users\eriku\Data&Hora\obj\Debug\net8.0\Data&Hora.genruntimeconfig.cache
+C:\Users\eriku\Data&Hora\obj\Debug\net8.0\ref\Data&Hora.dll
